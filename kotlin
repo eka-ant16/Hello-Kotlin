@@ -1,0 +1,9 @@
+/*
+Nama : Eka Mukti Agung
+Kelas : XI RPL 1
+Absen : 10
+ */
+
+fun main(){
+    println("Hello Kotlin")
+}
